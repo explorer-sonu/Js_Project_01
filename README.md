@@ -1,6 +1,8 @@
 # JavaScript Color Changer Project
 
 This is a simple JavaScript project that allows you to change the background color of a webpage with the click of a button.
+ 👉
+[Live Preview](https://explorer-sonu.github.io/JavaScript-Color-Changer-Project/)
 
 ## Getting Started
 
